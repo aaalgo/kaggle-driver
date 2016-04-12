@@ -33,7 +33,7 @@ picpac-import -f 2 train db
 Update train_val.prototxt and set the parameter path
 under picpac_param to the above produced db file.
 
-The score 0.74081 was produced with 18634 iterations.
+The score 0.74081 was produced with quick_solver with 18634 iterations.
 
 4. Prediction
 =============
